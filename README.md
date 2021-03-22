@@ -1,3 +1,8 @@
+# React Socket.io
+ - I have created a chat application using React and Node with help socket.io implement web-sockets.
+ - This project is for understanding purpose of socket.io with React as a Frontend & Node as a Backend.
+ - This project's goal is to learn basic concepts about socket.io
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
