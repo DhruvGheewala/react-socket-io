@@ -1,0 +1,21 @@
+* {
+  margin: auto;
+  padding: auto;
+  margin-top: 10px;
+}
+
+.hcenter {
+  display: flex;
+  justify-content: center;
+}
+
+.vcenter {
+  display: flex;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
